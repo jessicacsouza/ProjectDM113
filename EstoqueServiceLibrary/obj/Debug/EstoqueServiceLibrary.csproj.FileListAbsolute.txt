@@ -1,0 +1,15 @@
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueServiceLibrary.dll.config
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueServiceLibrary.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueServiceLibrary.pdb
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\obj\Debug\EstoqueServiceLibrary.csproj.AssemblyReference.cache
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\obj\Debug\EstoqueServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\obj\Debug\EstoqueServiceLibrary.csproj.CopyComplete
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\obj\Debug\EstoqueServiceLibrary.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceLibrary\obj\Debug\EstoqueServiceLibrary.pdb

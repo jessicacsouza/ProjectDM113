@@ -13,3 +13,18 @@ C:\Users\Jéssica\source\ServiceEstoqueEntityModel\ServicoEstoque\obj\Debug\Serv
 C:\Users\Jéssica\source\ServiceEstoqueEntityModel\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CopyComplete
 C:\Users\Jéssica\source\ServiceEstoqueEntityModel\ServicoEstoque\obj\Debug\ServicoEstoque.dll
 C:\Users\Jéssica\source\ServiceEstoqueEntityModel\ServicoEstoque\obj\Debug\ServicoEstoque.pdb
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\ServicoEstoque.dll.config
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\ServicoEstoque.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\ServicoEstoque.pdb
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EntityFramework.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EntityFramework.SqlServer.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EstoqueEntityModel.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EstoqueEntityModel.pdb
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EstoqueEntityModel.dll.config
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EntityFramework.xml
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\bin\EntityFramework.SqlServer.xml
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.AssemblyReference.cache
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\obj\Debug\ServicoEstoque.csproj.CopyComplete
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\obj\Debug\ServicoEstoque.dll
+C:\Users\Jéssica\AppData\Desktop\Nova pasta\ServicoEstoque\obj\Debug\ServicoEstoque.pdb
