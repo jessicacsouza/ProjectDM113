@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstoqueEntityModel", "EstoqueEntityModel\EstoqueEntityModel.csproj", "{405DF48E-B419-4BB8-9262-153F7BB4E7EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicoEstoque", "ServicoEstoque\ServicoEstoque.csproj", "{ED800066-5DB5-4EED-9E79-8D51C6C03D94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{405DF48E-B419-4BB8-9262-153F7BB4E7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{405DF48E-B419-4BB8-9262-153F7BB4E7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{405DF48E-B419-4BB8-9262-153F7BB4E7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED800066-5DB5-4EED-9E79-8D51C6C03D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED800066-5DB5-4EED-9E79-8D51C6C03D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED800066-5DB5-4EED-9E79-8D51C6C03D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED800066-5DB5-4EED-9E79-8D51C6C03D94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
