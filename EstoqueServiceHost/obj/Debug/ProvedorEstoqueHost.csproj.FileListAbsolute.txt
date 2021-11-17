@@ -17,3 +17,22 @@ C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceHost\obj\Debug\Proved
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceHost\obj\Debug\ProvedorEstoqueHost.csproj.CopyComplete
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceHost\obj\Debug\EstoqueServiceHost.exe
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueServiceHost\obj\Debug\EstoqueServiceHost.pdb
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceHost.exe.config
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceHost.exe
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceHost.pdb
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EntityFramework.dll
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceLibrary.dll
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceLibrary.pdb
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueServiceLibrary.dll.config
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EntityFramework.xml
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\ProvedorEstoqueHost.csproj.AssemblyReference.cache
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\ProvedorEstoqueHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\ProvedorEstoqueHost.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\ProvedorEstoqueHost.csproj.CopyComplete
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\EstoqueServiceHost.exe
+C:\Users\Jéssica\Downloads\projeto\EstoqueServiceHost\obj\Debug\EstoqueServiceHost.pdb
