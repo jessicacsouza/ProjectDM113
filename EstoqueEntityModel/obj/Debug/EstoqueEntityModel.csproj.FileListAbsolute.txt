@@ -26,3 +26,17 @@ C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueEntityModel\obj\Debug\Estoqu
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CopyComplete
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
 C:\Users\Jéssica\AppData\Desktop\Nova pasta\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll.config
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EstoqueEntityModel.pdb
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EntityFramework.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EntityFramework.xml
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.AssemblyReference.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.Migrations.Criacao_do_banco.resources
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.GenerateResource.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.csproj.CopyComplete
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\EstoqueEntityModel\obj\Debug\EstoqueEntityModel.pdb

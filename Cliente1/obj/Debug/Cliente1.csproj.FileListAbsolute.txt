@@ -11,3 +11,16 @@ C:\Users\Jéssica\Downloads\projeto\Cliente1\obj\Debug\Cliente1.csproj.CoreCompi
 C:\Users\Jéssica\Downloads\projeto\Cliente1\obj\Debug\Cliente1.csproj.CopyComplete
 C:\Users\Jéssica\Downloads\projeto\Cliente1\obj\Debug\Cliente1.exe
 C:\Users\Jéssica\Downloads\projeto\Cliente1\obj\Debug\Cliente1.pdb
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\Cliente1.exe.config
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\Cliente1.exe
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\Cliente1.pdb
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\EntityFramework.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\EntityFramework.xml
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.csproj.AssemblyReference.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.csproj.CoreCompileInputs.cache
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.csproj.CopyComplete
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.exe
+C:\Users\Jéssica\AppData\Desktop\DM113\Cliente1\obj\Debug\Cliente1.pdb
